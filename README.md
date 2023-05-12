@@ -1,3 +1,39 @@
+- a calculation tool by React
+- calculation support by math.js
+
+#Demo: 
+
+
+
+![maytinh1](https://github.com/kiritokaka208/calculator/assets/47194241/11059939-f755-4487-a00b-7560eb131fe4)
+
+
+
+![maytinh2](https://github.com/kiritokaka208/calculator/assets/47194241/a8f89557-b0f6-4f36-8bda-4c15142541ac)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
